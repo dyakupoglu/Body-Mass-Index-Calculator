@@ -1,0 +1,22 @@
+body {
+    background: url(../Assests/fast-food.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#tag-1 {
+    color: white;
+}
+
+.main {
+    margin-top: 250px;
+}
+
+.theme {
+    background-color: rgb(0, 0, 0, 0.7);
+    border: 5px solid rgb(255, 255, 255);
+    text-align: center;
+    width: 50rem;
+    margin: auto;
+    padding: 50px;
+}
